@@ -6,3 +6,4 @@ numpy==2.3.2
 pillow==11.3.0
 gspread
 oauth2client
+Flask
